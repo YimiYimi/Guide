@@ -10,6 +10,7 @@
 - [sublime编辑器]()
   - 下载(Windows版本) [点击下载]()
   - 常用插件
+    - [使用JSHint检查代码](https://github.com/victorporof/Sublime-JSHint)
   - 常用快捷键
 
 ### 语言基础篇
