@@ -10,10 +10,12 @@
 - [sublime编辑器]()
   - 下载(Windows版本) [点击下载]()
   - 常用插件
+    - [使用JSHint检查代码](https://github.com/victorporof/Sublime-JSHint)
   - 常用快捷键
 
 ### 前端社区与论坛
 
+<<<<<<< HEAD
 | **名称**                                | 推荐系数  | 说明               |
 | ------------------------------------- | ----- | ---------------- |
 | Github                                | ★★★★★ | GayHub你值得拥有      |
@@ -60,3 +62,8 @@
 4. [javascript语言精粹]()
 5. [javascript函数式编程]()
 6. [javascript面向对象编程指南]()
+=======
+- html 基础
+- CSS  基础
+- javascript 基础
+>>>>>>> 304ad0601b5522415f8e0e5e7618d34065963624
